@@ -97,6 +97,9 @@ autocmd FileType cs runtime dotnet_mappings.vim
 autocmd FileType python runtime python_mappings.vim
 autocmd FileType java runtime java_mappings.vim
 
+
+" emmett plugin keyword redeine
+let g:user_emmet_leader_key=','
 " wstrip plugin
 " don't highlight trailing whitespace
 let g:wstrip_highlight = 0
