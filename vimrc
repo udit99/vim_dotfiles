@@ -496,3 +496,7 @@ augroup END
 if filereadable(expand('~/.vimrc_local'))
   source ~/.vimrc_local
 end
+
+" Udit customization
+set splitbelow
+set splitright
