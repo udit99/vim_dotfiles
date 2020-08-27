@@ -500,3 +500,4 @@ end
 " Udit customization
 set splitbelow
 set splitright
+nmap <Leader>f :tag<space>

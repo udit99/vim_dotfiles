@@ -91,6 +91,11 @@ Plug 'rodjek/vim-puppet'
 " usage outside of git repos
 Plug 'tweekmonster/wstrip.vim', { 'branch': 'diff-error' }
 Plug 'leafgarland/typescript-vim'
+Plug 'ervandew/supertab'
+Plug 'tomtom/tlib_vim'
+Plug 'MarcWeber/vim-addon-mw-utils'
+Plug 'garbas/vim-snipmate'
+Plug 'honza/vim-snippets'
 
 if v:version >= 800 || has('nvim')
   Plug 'w0rp/ale'
