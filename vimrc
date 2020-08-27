@@ -501,3 +501,4 @@ end
 set splitbelow
 set splitright
 nmap <Leader>f :tag<space>
+nmap <Leader><space> :nohlsearch<cr>
